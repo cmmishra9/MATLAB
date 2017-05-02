@@ -32,8 +32,8 @@ Ball follower Robot using image processing;
 Laser controlled robot based on image processing;
 Anti Theft system
 
-Materials to be provided: 1) Software (MATLAB)
-		        2) Soft Copy of Reading Materials
+Materials to be provided: 
+		        Soft Copy of Reading Materials
 
 
 
